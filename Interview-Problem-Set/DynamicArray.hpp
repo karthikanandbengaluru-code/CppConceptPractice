@@ -2,7 +2,7 @@
 
 class DynamicArray
 {
-    //Declaring tow data members for arr and size n
+    //Declaring two data members for arr and size n
     private:
     int n;
     int * arr;
